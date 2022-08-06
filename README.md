@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Parthiv911
-- 👀 I’m interested in software engineering roles
-- 🌱 I’m currently learning machine learning using python
+- 👀 I’m on the look for machine learning and software engineering / development roles
 - 📫 How to reach me ... email: parthiv.aneesh1@gmail.com
 
 <!---
