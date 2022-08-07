@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parthiv911
-- 👀 I’m on the look for machine learning and software engineering / development roles
+- 👀 I’m on the lookout for machine learning and software engineering / development roles
 - 👀 Reach out to me for collaborations and interesting projects
 - 📫 How to reach me ... email: parthiv.aneesh1@gmail.com
 
