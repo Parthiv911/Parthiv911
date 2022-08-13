@@ -1,5 +1,8 @@
+--------------------------------------------------------------------------------------------------------------------
 The Hotel Management System Project(hotel.cpp) requires the TURBO C++ compiler inorder to compile and run.
+
 1.Install Turbo C++ Compiler
 2.Place a copy of the hotel.cpp file in the bin folder of TURBOC3
 3.Create a file named CBSEH.dat by opening notepad and saving the empty notepad file with file name "CBSEH.dat"
 4.Open Turbo C++ and run hotel.cpp
+---------------------------------------------------------------------------------------------------------------------
