@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parthiv911
-- 👀 I’m on the lookout for software engineering internships
+- 👀 I’m on the lookout for internships in DL/AI/NLP/Gen AI/LLMs/CV
 - 👀 Reach out to me for collaborations and interesting projects
 - 📫 How to reach me ... email: parthiv.aneesh1@gmail.com
 
